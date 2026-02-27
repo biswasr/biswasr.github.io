@@ -2,7 +2,6 @@
 layout: page
 title: Reconstructing Visual Experience from Brain Activity
 description: AI-based decoding of visual experience from fMRI using biologically-constrained generative video models
-img: assets/img/research/visual-reconstruction.png
 importance: 4
 category: Computational Neuroscience
 ---

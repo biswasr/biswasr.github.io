@@ -2,7 +2,7 @@
 layout: page
 title: Visual Cortex Circuitry and Arousal
 description: Mapping how arousal state reorganizes functional circuitry in the mouse visual cortex using calcium imaging and Neuropixels
-img: assets/img/research/visual-cortex.png
+img: assets/img/research/visual-cortex.jpg
 importance: 3
 category: Computational Neuroscience
 ---
@@ -18,4 +18,4 @@ Arousal — mediated by neuromodulatory systems including norepinephrine and ace
 - The cell-type and layer specificity of arousal-driven circuit changes
 - How arousal interacts with visual stimulus processing to shape population dynamics
 
-**Context.** This project is embedded within the broader research program of the [Abbasi-Asl Lab](https://abbasi-asl.github.io/) at UCSF, which investigates interpretable machine learning approaches to understanding neural computation in sensory cortices.
+**Context.** This project is embedded within the broader research program of the [Abbasi-Asl Lab](https://abbasilab.org/) at UCSF, which investigates interpretable machine learning approaches to understanding neural computation in sensory cortices.
