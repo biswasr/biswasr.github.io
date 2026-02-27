@@ -8,6 +8,7 @@ description: >
   systems neuroscience, clinical neurology, and AI-driven digital health.
 nav: true
 nav_order: 2
+
 display_categories: [Computational Neuroscience, AI Digital Health]
 horizontal: false
 ---
