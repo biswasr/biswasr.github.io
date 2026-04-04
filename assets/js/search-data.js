@@ -432,7 +432,7 @@ ninja.data = [{
               window.location.href = "/projects/skin-lesion-diagnostics/";
             },},{id: "projects-visual-cortex-circuitry-and-arousal",
           title: 'Visual Cortex Circuitry and Arousal',
-          description: "Mapping how arousal state reorganizes functional circuitry in the mouse visual cortex using calcium imaging and Neuropixels",
+          description: "Mapping visual cortex functional circuitry and arousal dynamics in mice using calcium imaging and Neuropixels",
           section: "Projects",handler: () => {
               window.location.href = "/projects/visual-cortex/";
             },},{id: "projects-reconstructing-visual-experience-from-brain-activity",
