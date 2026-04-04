@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Remote Skin Lesion Diagnostics
-description: Robust AI-assisted diagnosis of skin lesions from smartphone images for home-based dermatology
+title: AI-Assisted Skin Cancer Screening and Diagnostics
+description: AI and machine learning methods for earlier and more accurate diagnosis of skin cancers and disorders from smartphone images
 importance: 2
 category: AI Digital Health
 ---
