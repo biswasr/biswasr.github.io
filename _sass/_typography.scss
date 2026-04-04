@@ -37,16 +37,25 @@ table {
 
 a,
 table.table a {
-  color: var(--global-theme-color);
+  color: var(--global-text-color);
+  text-decoration: underline;
+  text-decoration-color: rgba(0, 0, 0, 0.2);
+  text-underline-offset: 3px;
 
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
+    text-decoration-color: var(--global-theme-color);
   }
 
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
+}
+
+html[data-theme="dark"] a,
+html[data-theme="dark"] table.table a {
+  text-decoration-color: rgba(255, 255, 255, 0.25);
 }
 
 .table-dark {
