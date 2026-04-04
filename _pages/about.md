@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: >
   Postdoctoral Scholar · Department of Neurology · Weill Institute for Neurosciences · University of California, San Francisco<br>
-  Research Data Scientist · U.S. Department of Veterans Affairs
+  Research Data Scientist · San Francisco VA Health Care System
 
 profile:
   align: right
@@ -21,7 +21,7 @@ selected_papers: true
 social: true
 ---
 
-I am a Postdoctoral Scholar in the [Department of Neurology](https://neurology.ucsf.edu/) at UCSF, working with [Dr. Reza Abbasi-Asl](https://abbasilab.org/), and a Research Data Scientist at the [U.S. Department of Veterans Affairs](https://www.va.gov/) (VISN 21, San Francisco VA). My research develops principled statistical and machine learning methods to uncover causal structure in neural dynamics, with applications in systems neuroscience, clinical neurology, and AI-driven digital health.
+I am a Postdoctoral Scholar in the [Department of Neurology](https://neurology.ucsf.edu/) at UCSF, working with [Dr. Reza Abbasi-Asl](https://abbasilab.org/), and a Research Data Scientist at the [San Francisco VA Health Care System](https://www.sanfrancisco.va.gov/). My research develops principled statistical and machine learning methods to uncover causal structure in neural dynamics, with applications in systems neuroscience, clinical neurology, and AI-driven digital health.
 
 **Computational Neuroscience.** My work spans causal inference frameworks, circuit-level analysis, and neural decoding. Current projects include mapping visual cortex circuitry reorganization under arousal in mice, characterizing directed network dynamics of chronic pain with [Dr. Prasad Shirvalkar](https://www.shirvalkarlab.com/), and AI-based reconstruction of visual experience from fMRI with [Dr. Jack Gallant](https://gallantlab.org/) (UC Berkeley).
 
