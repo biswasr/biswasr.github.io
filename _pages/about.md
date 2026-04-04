@@ -11,7 +11,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false
 
-news: true
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
 selected_papers: true
 social: true
 ---
