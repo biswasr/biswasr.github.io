@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://biswasr.github.io/sitemap.xml
+Sitemap: https://rahulbiswas.org/sitemap.xml
