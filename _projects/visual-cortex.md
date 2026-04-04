@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Visual Cortex Circuitry and Arousal
-description: Mapping visual cortex functional circuitry and arousal dynamics in mice using calcium imaging and Neuropixels
+description: Characterizing state-dependent organization of microscale functional circuitry in visual cortex using calcium imaging and Neuropixels
 img: assets/img/research/visual-cortex.jpg
 importance: 3
 category: Computational Neuroscience
@@ -14,7 +14,7 @@ Arousal — mediated by neuromodulatory systems including norepinephrine and ace
 - **Neuropixels** electrophysiology recordings capturing single-unit activity at millisecond resolution
 
 **Our approach.** By applying causal inference methods to these high-dimensional recordings, we characterize:
-- How functional circuitry within the visual cortex is **modulated** under low vs. high arousal states
+- How functional circuitry within the visual cortex is **organized** across different arousal states
 - The cell-type and layer specificity of arousal-driven circuit changes
 - How arousal interacts with visual stimulus processing to shape population dynamics
 
