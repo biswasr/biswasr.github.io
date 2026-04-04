@@ -10,11 +10,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>Department of Neurology</p>
-    <p>University of California, San Francisco</p>
-    <p>San Francisco, CA</p>
-    <p><a href="mailto:rahul.biswas@ucsf.edu">rahul.biswas@ucsf.edu</a></p>
 
 news: true
 selected_papers: true
