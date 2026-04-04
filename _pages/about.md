@@ -3,11 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Postdoctoral Scholar ·
-  <a href="https://neurology.ucsf.edu/">Department of Neurology</a> ·
-  <a href="https://www.ucsf.edu/">University of California, San Francisco</a><br>
-  Research Data Scientist ·
-  <a href="https://www.va.gov/">U.S. Department of Veterans Affairs</a>
+  Postdoctoral Scholar · Department of Neurology · Weill Institute for Neurosciences · University of California, San Francisco<br>
+  Research Data Scientist · U.S. Department of Veterans Affairs
 
 profile:
   align: right
