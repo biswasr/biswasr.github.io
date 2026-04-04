@@ -399,7 +399,7 @@ ninja.data = [{
           section: "News",},{id: "news-submitted-nih-k99-r00-pathway-to-independence-award-application-as-principal-investigator",
           title: 'Submitted NIH K99/R00 Pathway to Independence Award application as Principal Investigator.',
           description: "",
-          section: "News",},{id: "news-us-provisional-patent-application-filed-methods-and-systems-for-assessing-blood-pressure-measurement-technique-no-63-984-962-assigned-to-the-regents-of-the-university-of-california",
+          section: "News",},{id: "news-us-provisional-patent-application-filed-methods-and-systems-for-assessing-blood-pressure-measurement-technique-assigned-to-the-regents-of-the-university-of-california",
           title: 'US Provisional Patent Application filed: “Methods and Systems for Assessing Blood Pressure Measurement...',
           description: "",
           section: "News",},{id: "news-posters-accepted-at-the-conference-on-cognitive-computational-neuroscience-ccn-2026-nyu-and-the-computational-and-cognitive-neuroscience-meeting-cncm-2026-uc-irvine",
