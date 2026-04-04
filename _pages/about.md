@@ -19,7 +19,7 @@ selected_papers: true
 social: true
 ---
 
-I am a Postdoctoral Scholar in the [Department of Neurology](https://neurology.ucsf.edu/) at UCSF, working with [Dr. Reza Abbasi-Asl](https://abbasilab.org/), and a Research Data Scientist at the [San Francisco VA Health Care System](https://www.sanfrancisco.va.gov/). My research spans two directions: developing principled statistical and machine learning methods to characterize neural circuit dynamics, with applications in systems neuroscience and clinical neurology; and building AI-driven methods for digital health and remote diagnostics.
+I am a Postdoctoral Scholar in the [Department of Neurology](https://neurology.ucsf.edu/) at UCSF, working with [Dr. Reza Abbasi-Asl](https://abbasilab.org/), and a Research Data Scientist at the [San Francisco VA Health Care System](https://www.sanfrancisco.va.gov/). My research spans two directions: developing principled statistical and machine learning methods to characterize neural circuit dynamics, with applications in systems neuroscience and clinical neurology; and advancing AI-driven methods for digital health and remote diagnostics.
 
 **Computational Neuroscience.** I develop causal inference methods to characterize how neural circuit organization, from anatomical structure to large-scale dynamics, shapes information encoding. Current projects include mapping state-dependent organization of microscale functional circuitry in visual cortex, characterizing directed network dynamics of chronic pain with [Dr. Prasad Shirvalkar](https://www.shirvalkarlab.com/), and AI-based reconstruction of visual experience from fMRI, in collaboration with the [Gallant Lab](https://gallantlab.org/) (UC Berkeley).
 
