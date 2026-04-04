@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: >
   Postdoctoral Scholar · Department of Neurology · Weill Institute for Neurosciences · University of California, San Francisco<br>
-  Research Data Scientist · San Francisco VA Health Care System · <a href="/assets/pdf/CV_RahulBiswas.pdf">CV</a>
+  Research Data Scientist · San Francisco VA Health Care System
 
 profile:
   align: right

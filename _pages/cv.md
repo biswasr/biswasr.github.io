@@ -2,7 +2,9 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: false
+nav: true
+nav_order: 5
+redirect: /assets/pdf/CV_RahulBiswas.pdf
 nav_order: 4
 description: >
   Full CV available upon request — or reach out at
