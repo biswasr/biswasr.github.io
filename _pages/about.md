@@ -14,7 +14,7 @@ profile:
 announcements:
   enabled: true
   scrollable: true
-  limit: 5
+  limit: 10
 selected_papers: true
 social: true
 ---
