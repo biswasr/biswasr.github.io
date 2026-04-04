@@ -5,8 +5,9 @@ permalink: /
 subtitle: >
   Postdoctoral Scholar ·
   <a href="https://neurology.ucsf.edu/">Department of Neurology</a> ·
-  <a href="https://www.ucsf.edu/">University of California, San Francisco</a> ·
-  Research Data Scientist · <a href="https://www.va.gov/">U.S. Department of Veterans Affairs</a>
+  <a href="https://www.ucsf.edu/">University of California, San Francisco</a><br>
+  Research Data Scientist ·
+  <a href="https://www.va.gov/">U.S. Department of Veterans Affairs</a>
 
 profile:
   align: right
