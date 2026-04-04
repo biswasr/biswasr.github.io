@@ -425,9 +425,9 @@ ninja.data = [{
           description: "Uncovering directed brain network signatures of chronic pain from human EEG and ECoG recordings",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chronic-pain/";
-            },},{id: "projects-remote-skin-lesion-diagnostics",
-          title: 'Remote Skin Lesion Diagnostics',
-          description: "Robust AI-assisted diagnosis of skin lesions from smartphone images for home-based dermatology",
+            },},{id: "projects-ai-assisted-skin-cancer-screening-and-diagnostics",
+          title: 'AI-Assisted Skin Cancer Screening and Diagnostics',
+          description: "AI and machine learning methods for earlier and more accurate diagnosis of skin cancers and disorders from smartphone images",
           section: "Projects",handler: () => {
               window.location.href = "/projects/skin-lesion-diagnostics/";
             },},{id: "projects-visual-cortex-circuitry-and-arousal",
