@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   Postdoctoral Scholar · Department of Neurology · Weill Institute for Neurosciences · University of California, San Francisco<br>
@@ -29,4 +29,4 @@ I am a Postdoctoral Scholar in the [Department of Neurology](https://neurology.u
 
 I completed my PhD in Electrical and Computer Engineering (with a secondary MS in Statistics) at the [University of Washington](https://www.ece.uw.edu/), advised by [Dr. Eli Shlizerman](https://faculty.washington.edu/shlizee/), and hold a BS and MS in Statistics from the [Indian Statistical Institute](https://www.isical.ac.in/), Kolkata.
 
-Feel free to [reach out](mailto:rahul.biswas@ucsf.edu).
+Feel free to reach out at [rahul.biswas@ucsf.edu](mailto:rahul.biswas@ucsf.edu).
