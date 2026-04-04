@@ -29,4 +29,6 @@ I am a Postdoctoral Scholar in the [Department of Neurology](https://neurology.u
 
 I completed my PhD in Electrical and Computer Engineering (with a secondary MS in Statistics) at the [University of Washington](https://www.ece.uw.edu/), advised by [Dr. Eli Shlizerman](https://faculty.washington.edu/shlizee/), and hold a BS and MS in Statistics from the [Indian Statistical Institute](https://www.isical.ac.in/), Kolkata.
 
+**Open-Source Software.** I develop and maintain [CITS](https://github.com/biswasr/cits) (Python) and [TimeAwarePC](https://github.com/shlizee/TimeAwarePC) (PyPI: `timeawarepc`), which has been independently downloaded and applied by researchers internationally since 2022.
+
 Feel free to reach out at [rahul.biswas@ucsf.edu](mailto:rahul.biswas@ucsf.edu).
