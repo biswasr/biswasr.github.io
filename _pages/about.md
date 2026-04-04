@@ -29,4 +29,4 @@ I completed my PhD in Electrical and Computer Engineering (with a secondary MS i
 
 I also maintain open-source implementations of my methods, including [CITS](https://github.com/biswasr/cits) and [TimeAwarePC](https://github.com/shlizee/TimeAwarePC).
 
-Feel free to reach out at [rahul.biswas@ucsf.edu](mailto:rahul.biswas@ucsf.edu).
+Feel free to reach out at [rahul.biswas@ucsf.edu](mailto:rahul.biswas@ucsf.edu). \[[CV](/assets/pdf/CV_RahulBiswas.pdf)\]
