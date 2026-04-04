@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "My research develops principled statistical and machine learning methods to uncover causal structure in biological signals — with applications spanning systems neuroscience, clinical neurology, and AI-driven digital health.",
+          description: "My research develops principled statistical and machine learning methods to uncover causal structure in biological signals, with applications spanning systems neuroscience, clinical neurology, and AI-driven digital health.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
