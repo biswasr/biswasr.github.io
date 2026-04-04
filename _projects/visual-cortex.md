@@ -7,16 +7,14 @@ importance: 3
 category: Computational Neuroscience
 ---
 
-Arousal, mediated by neuromodulatory systems including norepinephrine and acetylcholine, profoundly shapes how sensory cortices process information. Yet how arousal organizes visual cortex circuitry at the resolution of individual neurons, cell types, and cortical layers remains incompletely understood.
+Brain state modulates sensory processing across visual cortex, yet how it relates to the organization of functional circuitry at the level of individual neurons and cell types remains largely unknown.
 
-**The data.** We analyze multi-modal datasets from the mouse visual cortex:
-- **Calcium imaging** of genetically identified cell types across cortical layers
-- **Neuropixels** electrophysiology recordings capturing single-unit spiking activity at millisecond resolution
+**The data.** We construct one of the largest microscale directed functional circuit maps in mouse visual cortex — calcium imaging of more than 57,000 neurons across four visual areas and five cortical layers.
 
-**Our approach.** We apply statistical causal inference to characterize state-dependent functional circuitry at single-neuron resolution. Key analyses include:
-- Mapping causal functional connectivity at the level of individual neurons across arousal states
-- Characterizing cell-type and laminar specificity of state-dependent circuit organization
-- Comparing inferred functional connectivity to known anatomical connectivity structure
-- Predictive modeling of arousal-driven changes in population dynamics and stimulus processing
+**Our approach.** Using a time-aware causal inference framework, we map multi-scale organization of directed functional circuitry across arousal states. Key findings include:
+- **Laminar organization:** layer 6 recurrence dominates within-layer; dominant between-layer pathways shift with arousal state (layer 5-to-6 in low arousal, layer 4-to-5 in high arousal)
+- **Cell-type specificity:** spatial extent is selectively greater for excitatory-to-inhibitory connections in high arousal
+- **Structure-function coupling:** across 6,597 electron-microscopy reconstructions of neuron pairs, synapse count predicts functional connection strength, with weaker coupling in high arousal
+- **Stimulus-driven prediction:** neuron pairs with stronger functional connections show more similar predictive performance, varying by layer and cell type
 
 **Context.** This project is embedded within the broader research program of the [Abbasi-Asl Lab](https://abbasilab.org/) at UCSF, which investigates interpretable machine learning approaches to understanding neural computation in sensory cortices.
