@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Rahul
 last_name: Biswas
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Postdoctoral Scholar at UCSF and Research Data Scientist at the U.S. Department of Veterans Affairs,
-  working on computational neuroscience, causal inference, and AI-driven digital health.
+  Postdoctoral Scholar at UCSF working on causal inference, computational neuroscience, and AI-driven digital health.
 footer_text: >
 keywords: computational neuroscience, causal inference, AI, digital health, fMRI, EEG, neural time series
 lang: en
