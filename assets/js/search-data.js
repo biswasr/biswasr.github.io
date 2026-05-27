@@ -401,7 +401,7 @@ ninja.data = [{
           title: 'Visiting seminars at the National University of Singapore and Indian Institute of Science,...',
           description: "",
           section: "News",},{id: "news-new-preprint-cits-nonparametric-statistical-causal-modeling-for-high-resolution-neural-time-series",
-          title: 'New preprint: CITS — Nonparametric Statistical Causal Modeling for High-Resolution Neural Time Series....',
+          title: 'New preprint: CITS: Nonparametric Statistical Causal Modeling for High-Resolution Neural Time Series.',
           description: "",
           section: "News",},{id: "news-poster-presentation-at-the-organization-for-human-brain-mapping-annual-meeting-ohbm-2025-brisbane-australia",
           title: 'Poster presentation at the Organization for Human Brain Mapping Annual Meeting (OHBM 2025),...',
