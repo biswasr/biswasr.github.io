@@ -25,7 +25,7 @@ I am a Postdoctoral Scholar in the Department of Neurology at UCSF, working with
 
 **AI Digital Health.** I co-lead development of AI-assisted remote diagnostic methods for home-based cardiovascular monitoring (with [Dr. Julio Lamprea](https://profiles.ucsf.edu/julio.lampreamontealegre), UCSF Cardiovascular Prevention Center) and AI-assisted skin cancer screening and diagnostics (with [Dr. Maria Wei](https://weilab.ucsf.edu/), UCSF Dermatology & SF VA), in collaboration with the [Abbasi-Asl Lab](https://abbasilab.org/).
 
-I completed my PhD in Electrical and Computer Engineering (with a secondary MS in Statistics) at the University of Washington, advised by [Dr. Eli Shlizerman](https://faculty.washington.edu/shlizee/), and hold a BS and MS in Statistics from the Indian Statistical Institute, Kolkata.
+I completed my PhD in Electrical and Computer Engineering (with a secondary MS in Statistics) at the University of Washington, advised by [Dr. Eli Shlizerman](https://faculty.washington.edu/shlizee/) ([dissertation](https://digital.lib.washington.edu/server/api/core/bitstreams/4e946c85-b002-418d-bf17-fa1d8549ab71/content)), and hold a BS and MS in Statistics from the Indian Statistical Institute, Kolkata.
 
 I also maintain open-source implementations of my methods, including [CITS](https://github.com/abbasilab/cits) and [TimeAwarePC](https://github.com/shlizee/TimeAwarePC).
 
