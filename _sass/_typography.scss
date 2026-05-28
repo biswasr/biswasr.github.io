@@ -35,6 +35,12 @@ table {
   }
 }
 
+a em,
+a strong,
+a span {
+  color: inherit;
+}
+
 a,
 table.table a {
   color: var(--global-theme-color);
