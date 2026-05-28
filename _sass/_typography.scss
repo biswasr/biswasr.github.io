@@ -38,7 +38,7 @@ table {
 a em,
 a strong,
 a span {
-  color: inherit;
+  color: var(--global-theme-color);
 }
 
 a,
