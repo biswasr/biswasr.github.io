@@ -415,7 +415,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-state-dependent-organization-of-microscale-functional-circuitry-in-visual-cortex",
           title: 'New preprint: State-Dependent Organization of Microscale Functional Circuitry in Visual Cortex.',
           description: "",
-          section: "News",},{id: "news-accepted-for-presentation-at-ccn-2026-new-york-university-and-cncm-2026-uc-irvine-state-dependent-organization-of-microscale-functional-circuitry-in-visual-cortex",
+          section: "News",},{id: "news-accepted-for-presentation-at-ccn-2026-new-york-university-and-cncm-2026-uc-irvine-state-dependent-organization-of-microscale-functional-circuitry-in-visual-cortex-the-ccn-poster-was-additionally-selected-as-a-spotlight",
           title: 'Accepted for presentation at CCN 2026 (New York University) and CNCM 2026 (UC...',
           description: "",
           section: "News",},{id: "projects-ai-assisted-home-cardiovascular-diagnostics",
