@@ -418,7 +418,7 @@ ninja.data = [{
           section: "News",},{id: "news-presenting-at-ccn-2026-new-york-university-and-cncm-2026-uc-irvine-state-dependent-organization-of-microscale-functional-circuitry-in-visual-cortex-the-ccn-poster-was-additionally-selected-as-a-spotlight",
           title: 'Presenting at CCN 2026 (New York University) and CNCM 2026 (UC Irvine): State-Dependent...',
           description: "",
-          section: "News",},{id: "news-invited-talk-at-georgia-tech-s-sybeco-journal-club-virtual-on-state-dependent-microscale-functional-circuitry-in-visual-cortex-watch-the-recording",
+          section: "News",},{id: "news-invited-talk-at-georgia-tech-s-sybeco-journal-club-virtual-on-state-dependent-microscale-functional-circuitry-in-visual-cortex",
           title: 'Invited talk at Georgia Tech’s SyBeCo Journal Club (virtual) on state-dependent microscale functional...',
           description: "",
           section: "News",},{id: "news-new-preprint-coach-bp-computer-vision-based-assessment-and-correction-of-blood-pressure-measurement-technique",
